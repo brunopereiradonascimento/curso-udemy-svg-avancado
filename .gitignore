@@ -1,2 +1,5 @@
 #ignore arquivos textos
 *.txt
+
+#ignorar pasta node_modules
+07-svg-sprite-boilerplate/node_modules/
